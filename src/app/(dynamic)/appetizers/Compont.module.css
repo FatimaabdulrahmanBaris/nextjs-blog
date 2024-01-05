@@ -1,0 +1,62 @@
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 20px 150px;
+
+    direction: rtl;
+}
+.group{
+    margin: 15px 0px;
+    width: 100%;
+    display: inline-flex;
+    direction: rtl;
+}
+.comp{
+    margin: 0px 5px;
+    width: 200px;
+    display: block;
+    text-align: center;
+  
+}
+.box{
+    margin: 0px 5px;
+    width: 100%;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 25px;
+    background-color: white;
+    display: block;
+}
+.mx{
+text-align: center;
+}
+.cicleimg{
+    width: 100%;
+    height: 170px;
+    border: none;
+    border-radius: 25px;
+}
+.button{
+    width: 120px;
+    height: 30px;
+    text-align: center;
+   background-color: #808080;
+   border-radius: 5px;
+   color: white;
+   margin:10px auto 0px;
+   
+
+  
+}
+.h4{
+    margin: 0px 6px;
+    font-weight: 600;
+    text-align: right;
+}
+.p{
+    margin: 0px 6px;
+    font-weight: 200;
+    text-align: right;
+}

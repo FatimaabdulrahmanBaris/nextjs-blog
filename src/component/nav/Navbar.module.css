@@ -1,0 +1,86 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #f1f1f1;
+    padding: 20px 150px;
+
+}
+.conuntui{
+    width: 100%;
+    height: auto;
+display: flow-root;
+}
+.ul1{
+    display: inline-flex;
+    float: left;
+    justify-content: space-between;
+}
+.lim{
+    margin: 5px;
+}
+.lima{
+    display: inline-flex; 
+    margin: 5px;
+}
+.inp{
+    width: 150px;
+    border: 1px solid #808080;
+    border-radius: 25px;
+    direction: rtl;
+}
+.mimg{
+    margin-left: -10px;
+}
+.ul2{
+    display: inline-flex;
+    float: right;
+    justify-content: space-between;
+}
+.new{
+    width: 100%;
+  direction: rtl;
+    padding: 25px;
+    margin: 25px 0px;
+    background-color: #222021;
+    border-radius: 10px;
+    color: white;
+    display: inline-flex;
+    padding: 0px;
+}
+.cicle{
+    margin: 3px 0px;
+    width: 35px;
+    height: 35px;
+    border: 2px #222021;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+}
+.cicleimg{
+    margin: auto;
+    justify-self: center;
+}
+.groupimg{
+    margin-top: -20px;
+    width: 35px;
+    justify-content: end;
+}
+.grouptext{
+    margin: 5px 15px;
+}
+.containbag{
+    margin: 10px;
+    width: 100%;
+    height: 100%;
+    background-color: #808080;
+    border-radius: 15px;
+    padding: 0 5px;
+}
+.box{
+    width: 100%;
+    height: 150px;
+    margin: 15px 0px;
+    background-color: white;
+    display: inline-flex;
+    border-radius: 10px;
+}
